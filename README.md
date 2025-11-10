@@ -1,4 +1,4 @@
-## Hi there 👋
+Hi there 👋
 
 <!--
 **yeukhou/yeukhou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+I am a machine learning engineer who recently started my first full-time job.
+
+Besides my profession, I’m also passionate about 「travelling around the world 🌏」and「playing various musical instruments 🎹🎻」
